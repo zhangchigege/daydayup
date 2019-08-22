@@ -42,7 +42,7 @@
       <module name="springboot-activemq" target="1.8" />
       <module name="springboot-activemq-consumer" target="1.8" />
       <module name="springboot-activemq-producer" target="1.8" />
-      <module name="springboot-mongodb" target="1.6" />
+      <module name="springboot-mongodb" target="1.8" />
       <module name="springboot-shiro" target="1.8" />
       <module name="springbootStudy (1)" target="1.8" />
       <module name="springbootStudy (2)" target="1.8" />
@@ -55,7 +55,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-thymeleaf" options="-parameters" />
       <module name="spring-boot-yml" options="-parameters" />
-      <module name="springboot-mongodb" options="-parameters" />
+      <module name="springboot-mongodb" options="" />
     </option>
   </component>
 </project>
