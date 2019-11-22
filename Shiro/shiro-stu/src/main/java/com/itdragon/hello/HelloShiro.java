@@ -16,7 +16,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 代码来自官网demo
- * @author itdragon
  *
  */
 public class HelloShiro {

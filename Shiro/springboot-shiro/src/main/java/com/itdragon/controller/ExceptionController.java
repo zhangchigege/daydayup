@@ -9,9 +9,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
  * 异常统一处理
- * 
  * Spring @ControllerAdvice 使用方法介绍： http://blog.csdn.net/jackfrued/article/details/76710885
- * @author itdragon
  */
 @ControllerAdvice
 public class ExceptionController {

@@ -13,7 +13,6 @@ import com.itdragon.utils.ITDragonUtil;
 
 /**
  * 消息队列消费者
- * @author itdragon
  *
  */
 public class ITDragonConsumer {

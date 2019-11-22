@@ -21,6 +21,7 @@
         <module name="springboot-activemq-producer" />
         <module name="springboot-mongodb" />
         <module name="springboot-shiro" />
+        <module name="springbootStudy" />
         <module name="springbootStudy (1)" />
         <module name="springbootStudy (2)" />
         <module name="ssm-redis" />
@@ -44,6 +45,7 @@
       <module name="springboot-activemq-producer" target="1.8" />
       <module name="springboot-mongodb" target="1.8" />
       <module name="springboot-shiro" target="1.8" />
+      <module name="springbootStudy" target="1.8" />
       <module name="springbootStudy (1)" target="1.8" />
       <module name="springbootStudy (2)" target="1.8" />
       <module name="ssm-redis" target="1.8" />
